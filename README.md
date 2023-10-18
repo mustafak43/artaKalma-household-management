@@ -1,6 +1,6 @@
 # Firebase Notification Sender
 
-The 'Firebase Notification Sender' project, which was created for competition in Turkey called TEKNOFEST, is aimed at simplifying household management and communication.
+The 'Firebase Notification Sender' project, which was created for a competition in Turkey called TEKNOFEST, is aimed at simplifying household management and communication.
 
 ## Overview
 
