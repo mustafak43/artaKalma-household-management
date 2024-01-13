@@ -1,6 +1,7 @@
-# Firebase Notification Sender
+# artaKalma Backend
 
-The 'Firebase Notification Sender' project, which was created for a competition in Turkey called TEKNOFEST, is aimed at simplifying household management and communication.
+The 'artaKalma' project, which was created for a competition in Turkey called TEKNOFEST, is aimed at simplifying household management and communication.
+Has led the team to the finals in said competition.
 
 ## Overview
 
